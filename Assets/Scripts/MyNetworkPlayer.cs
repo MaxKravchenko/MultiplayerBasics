@@ -67,7 +67,5 @@ public class MyNetworkPlayer : NetworkBehaviour
         Debug.Log($"New name {newDisplayName}");
     } 
 
-    #endregion
-
-    
+    #endregion 
 }
